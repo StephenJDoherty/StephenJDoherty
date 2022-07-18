@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenJDoherty
 - 👀 I’m interested in Full Stack, Mobile Development and Artificial Intelligence agents.
-- 🌱 I’m currently learning iOS Swift, Angular, Python, Node and .NET.
+- 🌱 I’m currently learning and working on iOS Swift, Flutter, Angular, Python, Node, .NET and Ruby.
 - 💞️ I’m looking to collaborate on Web Apps, Mobile Apps, Games and AI projects.
 
 <!---
