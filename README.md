@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephenJDoherty
+- 👋 Hi, I’m @StephenJDoherty a Software Developer and AI Prompt Engineer.
 - 👀 I’m interested in Full Stack, Mobile Development and Artificial Intelligence agents.
 - 🌱 I’m currently learning and working in Next, React, Go, Elixir, Ruby, iOS Swift, Flutter, Python, Node and AWS.
 - 💞️ I’m looking to collaborate on Web Apps, Mobile Apps, Games and AI projects.
