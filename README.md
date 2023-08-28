@@ -2,7 +2,7 @@
 - 👀 I do Software Development, AI Prompt Engineering and Digital Marketing for Businesses.
 - 🌱 I’m working in Next, React, Go, Node, Flutter, Python, GCP and AWS.
 - 💞️ I’m looking to chat and collaborate on great innovative ways to use code to solve the modern worlds problems and
-to create a better human, plant and animal environments that are sustainable and incredibly enjoyable.
+create a better human, plant and animal environments that are sustainable and incredibly enjoyable.
 
 <!---
 StephenJDoherty/StephenJDoherty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
